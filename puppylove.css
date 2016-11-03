@@ -2,4 +2,23 @@
   color: black;
   text-align: center;
   font-family: 'Chewy', cursive;
+  font-size: 50px;
+}
+#btn-register{
+  height:20px;
+  width:150px;
+  margin: -20px -50px;
+  position:relative;
+  top:50%;
+  left:50%;
+  font-family: 'Chewy', cursive;
+}
+#btn-login{
+  height:20px;
+  width:150px;
+  margin: -20px -50px;
+  position:fixed;
+  top:46%;
+  left:50%;
+  font-family: 'Chewy', cursive;
 }
