@@ -102,3 +102,111 @@ body {
   font-family: "Trocchi", serif;
   color: #644A26;
 }
+
+/* ----- SIGN UP FORM ----*/
+.form {
+  background:rgba(118, 197, 207, 0.8);
+  padding: 10px;
+  max-width:350px;
+  margin:60px 60px;
+  border-radius:20px;
+  box-shadow:0 4px 10px 4px white;
+}
+
+.tab-content h1 {
+  color: white;
+  text-align: center;
+  font-family: "Trocchi", serif;
+}
+
+#firstname label { /* first name */
+  color: white;
+  font-family: "Trocchi", serif;
+  margin-left: 125px;
+}
+
+#firstname input { /* first name INPUT */
+  color: white;
+  font-family: "Trocchi", serif;
+  margin-left: 95px;
+}
+
+#lastname label { /* last name */
+  color: white;
+  font-family: "Trocchi", serif;
+  margin-left: 126px;
+}
+
+#lastname input { /* last name INPUT */
+  color: white;
+  font-family: "Trocchi", serif;
+  margin-left: 95px;
+}
+
+#email label { /* email address */
+  color: white;
+  font-family: "Trocchi", serif;
+  margin-left: 110px;
+}
+
+#email input { /* email address INPUT */
+  color: white;
+  font-family: "Trocchi", serif;
+  margin-left: 95px;
+}
+
+#password label { /* password */
+  color: white;
+  font-family: "Trocchi", serif;
+  margin-left: 105px;
+}
+
+#password input { /* password INPUT */
+  color: white;
+  font-family: "Trocchi", serif;
+  margin-left: 95px;
+}
+
+.button_button-block {
+  font-family: "Trocchi", serif;
+  margin-left: 130px;
+  margin-top: 10px;
+}
+
+#loginemail label { /* login email */
+  color: white;
+  font-family: "Trocchi", serif;
+  margin-left: 110px;
+}
+
+#loginemail input { /* login email INPUT */
+  color: white;
+  font-family: "Trocchi", serif;
+  margin-left: 95px;
+}
+
+#loginpassword label { /* login password */
+  color: white;
+  font-family: "Trocchi", serif;
+  margin-left: 130px;
+}
+
+#loginpassword input { /* login password INPUT */
+  color: white;
+  font-family: "Trocchi", serif;
+  margin-left: 95px;
+}
+
+.forgot {
+  color: white;
+  font-family: "Trocchi", serif;
+  margin-left: 113px;
+  margin-top: 10px;
+  font-size: 13px;
+}
+
+#loginButton {
+  font-family: "Trocchi", serif;
+  margin-left: 145px;
+  margin-top: 10px;
+}

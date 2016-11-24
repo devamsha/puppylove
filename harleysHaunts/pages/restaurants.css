@@ -112,7 +112,9 @@ body {
 
 /* ----- CONTENT -----*/
 
+
 #article1 {
+
   height: 150px;
   width: 850px;
 
@@ -126,9 +128,8 @@ body {
 
   float: left;
 
-  border-style: solid;
-  border-width: medium;
-  border-color: #76C5CF;
+  border-radius:20px;
+  box-shadow:0 4px 10px 4px white;
   background-color: #76C5CF;
 
   color: #644A26;
@@ -160,4 +161,6 @@ padding-right: 5px;
   border-style: solid;
   border-width: medium;
   border-color: #76C5CF;
+  border-radius:20px;
+  box-shadow:0 4px 10px 4px white;
 }
